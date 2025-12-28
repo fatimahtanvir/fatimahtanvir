@@ -12,11 +12,6 @@ I am a researcher and developer specializing in **ML for signals**, wireless sys
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 
-### 📊 My GitHub Stats
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimahtanvir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimahtanvir&layout=compact&theme=radical)
-
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-tanveer-8a727779/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanveerf@lafayette.edu)
