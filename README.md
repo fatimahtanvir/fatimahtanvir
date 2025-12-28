@@ -1,7 +1,8 @@
-👋 Hi, I'm Fatima Tanveer
+# 👋 Hi, I'm Fatima Tanveer
 
 ### ECE + DS Student @ Lafayette College
-I am a researcher and developer specializing in **ML for signals**, wireless systems, and embedded AI. My work bridges the gap between signal intelligence and data-driven insights.
+I am a researcher and developer specializing in **ML for signals**, wireless systems, and embedded AI. My work focuses on bridging the gap between signal intelligence and data-driven insights.
+
 
 ### 🛠️ Tech Stack & Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,5 +18,6 @@ I am a researcher and developer specializing in **ML for signals**, wireless sys
 
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-tanveer-8a727719)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-tanveer-8a727779/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanveerf@lafayette.edu)
 [![Website](https://img.shields.io/badge/personal_website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fatimatanveer.org)
