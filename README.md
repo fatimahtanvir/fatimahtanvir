@@ -1,5 +1,5 @@
 # Fatima Tanveer
-**ECE + Data Science · Lafayette College '27 · Marquis Fellow**
+**ECE + Data Science · Lafayette College '29 · Marquis Fellow**
 
 I build robotics systems with a human-centered lens,
 from low-latency locomotion planners to accessible 
@@ -25,7 +25,7 @@ real users.
 **ML/AI:** TensorFlow · MobileNetV2 · MTCNN · transfer learning  
 **Hardware:** FPGA/GPU benchmarking · low-latency inference  
 **Quantum:** QUBO · QAOA · Bloqade · Ising formulation  
-**Data:** Python · MATLAB · Power BI  
+**Data:** Python · MATLAB · NumPy · SciPy  
 
 ---
 
