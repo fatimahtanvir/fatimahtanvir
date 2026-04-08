@@ -16,7 +16,7 @@ real users.
 | Quantum portfolio optimiser | QAOA · Bloqade · Python | YQuantum 2026 |
 | Real-time facial embedding pipeline | TensorFlow · MobileNetV2 | Complete |
 | Obstacle avoidance (ROS 2) | Python · ROS 2 | Active |
-| IQRA — digital skills platform | Full-stack | 1,400+ users, 3 countries |
+| IQRA - digital skills platform | Full-stack | 1,400+ users, 3 countries |
 
 ---
 
