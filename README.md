@@ -1,18 +1,40 @@
-# 👋 Hi, I'm Fatima Tanveer
+# Fatima Tanveer
+**ECE + Data Science · Lafayette College '27 · Marquis Fellow**
 
-### ECE + DS Student @ Lafayette College
-I am a researcher and developer specializing in **ML for signals**, wireless systems, and embedded AI. My work focuses on bridging the gap between signal intelligence and data-driven insights.
+I build robotics systems with a human-centered lens —
+from low-latency locomotion planners to accessible 
+AI platforms. My work spans the full stack: hardware 
+benchmarking, robot perception, and deployment to 
+real users.
 
+---
 
-### 🛠️ Tech Stack & Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+## Active Work
+| Project | Stack | Status |
+|---|---|---|
+| Humanoid footstep planner | ROS 2 · C++ | Complete |
+| Quantum portfolio optimiser | QAOA · Bloqade · Python | YQuantum 2026 |
+| Real-time facial embedding pipeline | TensorFlow · MobileNetV2 | Complete |
+| Obstacle avoidance (ROS 2) | Python · ROS 2 | Active |
+| IQRA — digital skills platform | Full-stack | 1,400+ users, 3 countries |
 
+---
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-tanveer-8a727779/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanveerf@lafayette.edu)
-[![Website](https://img.shields.io/badge/personal_website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fatimatanveer.org)
+## Stack
+**Robotics:** ROS 2 · C++ · sensor fusion · motion planning  
+**ML/AI:** TensorFlow · MobileNetV2 · MTCNN · transfer learning  
+**Hardware:** FPGA/GPU benchmarking · low-latency inference  
+**Quantum:** QUBO · QAOA · Bloqade · Ising formulation  
+**Data:** Python · MATLAB · Power BI  
+
+---
+
+## Research Interests
+Human-robot interaction · terrain-aware locomotion ·  
+robot perception · accessible AI systems
+
+---
+
+📍 Easton, PA  
+📬 ftanveer@lafayette.edu  
+🔗 linkedin.com/in/fatimatanveer
