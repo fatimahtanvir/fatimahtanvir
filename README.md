@@ -1,7 +1,7 @@
 # Fatima Tanveer
 **ECE + Data Science · Lafayette College '27 · Marquis Fellow**
 
-I build robotics systems with a human-centered lens —
+I build robotics systems with a human-centered lens,
 from low-latency locomotion planners to accessible 
 AI platforms. My work spans the full stack: hardware 
 benchmarking, robot perception, and deployment to 
