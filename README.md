@@ -36,5 +36,5 @@ robot perception · accessible AI systems
 ---
 
 📍 Easton, PA  
-📬 ftanveer@lafayette.edu  
+📬 tanveerf@lafayette.edu   
 🔗 linkedin.com/in/fatimatanveer
