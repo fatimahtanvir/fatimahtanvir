@@ -26,6 +26,7 @@ real users.
 **Hardware:** FPGA/GPU benchmarking · low-latency inference  
 **Quantum:** QUBO · QAOA · Bloqade · Ising formulation  
 **Data:** Python · MATLAB · NumPy · SciPy  
+**Design:** Autodesk Fusion 360 · 3D printing · modular mechanical systems
 
 ---
 
